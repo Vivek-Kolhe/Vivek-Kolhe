@@ -1,6 +1,5 @@
 ### He-ya! <img width="24px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" />
 - 🙍🏻‍♂️ I’m Vivek, a second year undergrad pursuing B.E.
-- 🌱 I’m currently learning Python.
 - 👬 I’m looking to collaborate on new projects ideas.
 - 😄 **Pronouns:** He / Him
 - ⚡ **Fun fact:** Imma Noobie and I love Web Scraping.

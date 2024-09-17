@@ -7,7 +7,7 @@ VIVEK = {
     "country": "India",
     "age": 23,
     "spokenLanguages": ["English", "Hindi", "Marathi", "Japanese"],
-    "newYearGoals": ["sharpen my skills in programming", "get a job"],
+    "currentGoals": ["sharpen my skills in programming", "get a job"],
     "skills" : {
         "languages" : ["C", "C++", "Python", "Ruby", "Golang", "HTML", "CSS"],
         "frameworks" : ["Flask", "FastAPI", "TailwindCSS", "Bootstrap"],

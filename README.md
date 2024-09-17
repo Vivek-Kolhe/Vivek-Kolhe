@@ -1,17 +1,27 @@
-### He-ya! 👋
-- 🙍🏻‍♂️ I’m Vivek, a third year undergrad pursuing B.E.
-- 👬 I’m looking to collaborate on new projects ideas.
-- 😄 **Pronouns:** He / Him
-- ⚡ **Fun fact:** Imma Noobie and I love Web Scraping.
+### He-yo, I'm Vivek! Nice to meet-cha! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Skills
-<img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
-<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/cplusplus.svg" />
-<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/python.svg" />
-<img align="left" alt="Ruby" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/ruby.svg" />
-<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/html5.svg" />
-<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/css3.svg" />
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" />
+```python3
+print("Hello world!")
+VIVEK = {
+    "pronouns": ["he", "him"],
+    "country": "India",
+    "age": 23,
+    "spokenLanguages": ["English", "Hindi", "Marathi", "Japanese"],
+    "newYearGoals": ["sharpen my skills in programming", "get a job"],
+    "skills" : {
+        "languages" : ["C", "C++", "Python", "Ruby", "Golang", "HTML", "CSS"],
+        "frameworks" : ["Flask", "FastAPI", "TailwindCSS", "Bootstrap"],
+        "databases" : ["MySQL", "MongoDB"],
+        "tools" : ["VSCode", "Windows Terminal", "Git"],
+        "platforms" : ["Heroku"]
+	}
+}
 
-<br><br>
+```
 
+### Reach me at 📫
+<a href="https://telegram.dog/ded_sadge"><img src="https://img.shields.io/badge/ded__sadge-smthing?style=flat&logo=telegram&labelColor=%23555555&color=%23263759" title="repo stars"></a>
+
+<!---
+Stole this from reddit, credits to the original github user.
+-->

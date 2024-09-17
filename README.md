@@ -8,12 +8,12 @@ VIVEK = {
     "age": 23,
     "spokenLanguages": ["English", "Hindi", "Marathi", "Japanese"],
     "currentGoals": ["sharpen my skills in programming", "get a job"],
-    "skills" : {
-        "languages" : ["C", "C++", "Python", "Ruby", "Golang", "HTML", "CSS"],
-        "frameworks" : ["Flask", "FastAPI", "TailwindCSS", "Bootstrap"],
-        "databases" : ["MySQL", "MongoDB"],
-        "tools" : ["VSCode", "Windows Terminal", "Git"],
-        "platforms" : ["Heroku"]
+    "skills": {
+        "languages": ["C", "C++", "Python", "Ruby", "Golang", "HTML", "CSS"],
+        "frameworks": ["Flask", "FastAPI", "TailwindCSS", "Bootstrap"],
+        "databases": ["MySQL", "MongoDB"],
+        "tools": ["VSCode", "Windows Terminal", "Git"],
+        "platforms": ["Heroku"]
 	}
 }
 
